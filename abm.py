@@ -60,7 +60,7 @@ S='\033[1;96m'
 P='\033[1;95m'
 Y='\033[1;93m'
 		
-#Dev:Tech-Abm
+#Shiva:Tech-Shiva
 ##### LOGO #####
 logo ="""
 \033[0;33m⚚═╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌═⚚
@@ -97,9 +97,9 @@ logo ="""
 \033[1;91m███████████████▓▓▓██▓▓╬╬╬╬╬╬▓███████████
 
 \033[1;95m╔═━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⌗⊰
-\033[1;92m║\033[1;93mAUTHOR ⊱⟡⊰ \033[1;92mSYED FARHAN        
-\033[1;92m║\033[1;93mCREATE BY ⊱⟡⊰ \033[1;92mTECH-ABM    
-\033[1;92m║\033[1;93mFACEBOOK ⊱⟡⊰ \033[1;92mhttps://www.facebook.com/Itxfarhanshahhere9           
+\033[1;92m║\033[1;93mAUTHOR ⊱⟡⊰ \033[1;92mSHIVA RAJPUT    
+\033[1;92m║\033[1;93mCREATE BY ⊱⟡⊰ \033[1;92mTECH-SHIVA    
+\033[1;92m║\033[1;93mFACEBOOK ⊱⟡⊰ \033[1;92mhttps://www.facebook.com/Itxshivarajput9           
 \033[1;95m╚═━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⌗⊰                        
 
 
@@ -137,7 +137,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print """
 \033[1;32m╔════•ೋೋ•ೋೋ•════════════╗
-\033[1;96m  •••Technical syedji•••
+\033[1;96m  •••TECHNICAL SHIVA•••
 \033[1;32m╚════•ೋೋ•ೋೋ•════════════╝"""
  
 jalan('\033[0;33m⚚═╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌═⚚')
@@ -178,14 +178,14 @@ print"\033[1;32m✖⊱⊶⊶⊶⊶⊶⊶⊶⊶⊶⊰✖"
 jalan('\033[1;97m█████████████████████') 
 print"\033[1;32m✖⊱⊶⊶⊶⊶⊶⊶⊶⊶⊶⊰✖"
 jalan('\033[1;31m COMPLETING•••')
-jalan('\033[1;31m⋕⋕SYED FARHAN⋕⋕') 
+jalan('\033[1;31m⋕⋕SHIVA RAJPUT⋕⋕') 
 jalan('\033[1;22m DONE•••PLEASE WAIT')
 jalan('\033[0;33m⚚═╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌═⚚')
 
 jalan('\033[1;34m⚚═╌╌╌╌╌╌╌╌╌╌╌╌╌ TOOL LOGIN ╌╌╌╌╌╌╌╌╌╌╌╌╌═⚚')
 
-CorrectUsername = "farhan"
-CorrectPassword = "farhan"
+CorrectUsername = "RAJPUT"
+CorrectPassword = "RAJPUT"
 
 loop = 'true'
 while (loop == 'true'):
